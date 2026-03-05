@@ -1,3 +1,0 @@
-select * 
-from city 
-where COUNTRYCODE='JPN';
